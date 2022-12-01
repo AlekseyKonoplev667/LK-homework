@@ -1,0 +1,61 @@
+.desktop-1 {
+align-items: flex-start; background-color: #9591; border: 0px none; display: flex; gap: I35px; height: 1024px; padding: 0 60px; width: 1440px;
+}
+.hidden,
+.hidden * {
+pointer-events: none; visibility: hidden;
+}
+.overlap-group-container {
+align-items: flex-start; display: flex; flex-direction: column; gap: 78px; min-height: 930px; width: 757px;
+}
+.overlap-group { height: 122px; position: relative; width: 754px;
+}
+.text-4 {
+left: 543px;
+letter-spacing: 0;
+line-height: normal;
+position: absolute; top: 0;
+}
+.text-2 {
+left: 22px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.text-2-1 {
+left: 119px; letter-spacing: 0; line-height: normal; position: absolute; top: 0; width: 516px;
+}
+.number {
+left: 668px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.text-1 { left: 25px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.text { left: 583px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.text-15 { left: 585px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.rectangle-4 { height: 89px; left: 0;
+position: absolute; top: 33px; width: 754px;
+}
+.text-5 { left: 559px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.text-14 {
+left: 584px; letter-spacing: 0; line-height: normal; position: absolute; top: 0;
+}
+.line-container { align-items: flex-start; background-color: I#dad2f1; border-radius: I0px; display: flex; flex-direction: column; gap: 54px; margin-left: 3px; min-height: 730px; padding: 65px 19px; width: 754px;
+}
+.line-11 { align-self: center; height: 3px; margin-right: 0.01px; width: 710px;
+}
+.line { height: 3px; width: 710px;
+}
+.flex-col { align-items: center; display: flex; flex-direction: column; gap: 50px; min-height: 502px; width: 314рх;
+}
+.overlap-group2 { height: 451px; position: relative; width: 314рх;
+}
+.rectangle-2 { height: 416px; left: 0;
+object-fit: cover; position: absolute; top: 35px; width: 278px;
+}
+.text-16 { left: 30px; letter-spacing: 0; line-height: normal; position: absolute; top: 0; width: 284px;
+}
+.text-1-1 {
+left: 37px; letter-spacing: 0; line-height: normal; position: absolute; top: 0; width: 199px;
+}
+.line-4 { height: 1px; margin-right: 40px; width: 214px;
+}
